@@ -1,29 +1,29 @@
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: ios
 Components: main
-Date: Thu, 30 Jul 2026 10:03:25 +0000
+Date: Thu, 30 Jul 2026 10:13:12 +0000
 Description: Saikyokn's Personal iOS Tweak Repository
 Label: Saikyokn
 Origin: Saikyokn Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- 2e808aee5f4c8a3624b30c48df76cc3e              513 Packages
- 9210de2887d1be59c1811862ae954177              389 Packages.bz2
- 1a60fcbe25e6abb6e5e5f8d054b1885f              363 Packages.gz
- 467076d74e673b593a1c71d19f8d62b6              247 Release
+ 41f062208dd647b895d077dc3e9c025e              988 Packages
+ ac02c65dc7890e69910dec0104069828              577 Packages.bz2
+ f902b414af845cd2e2d60836ce005a95              521 Packages.gz
+ a5fa242630899709edc9ca7510e8ef86              247 Release
 SHA1:
- 41fb6a42a3690cf5e51bda88c8f516032e914938              513 Packages
- 55cef41099fc8969113dbf3d8d42b701c5e443bc              389 Packages.bz2
- 11a39f3a1abfdb47c99c916b3d178a4ea625f2dc              363 Packages.gz
- 1e709fb63c801842116b8ef593cac665479cd4f7              247 Release
+ caa680a9c3c043dd1591c0315b46cbe73d2aaac7              988 Packages
+ 54dfd9cc1b32994887f78cefe00425ce95517cf6              577 Packages.bz2
+ 3fdda16686e6571897ba4ada54754c13191b4019              521 Packages.gz
+ e0725a01187e199666ed29fcec45bbea89308868              247 Release
 SHA256:
- f7d03ba920a04e02d4d11ac14d810f44c4d1ba5d5eaeb4eeefe079c13280f0e9              513 Packages
- bcec9265a07bad636c26f13ff307fb1276a256dd74483a20978d4026a75c1ad1              389 Packages.bz2
- 528a4c46f7e941b2d91c9f6fb6b535c39e4dfe9dfd501b77a8c9e84100e55ead              363 Packages.gz
- cb08c42d55253b9a5778743536be36c38d5c98393bb5a857db14df806dcee5d2              247 Release
+ 944f889afc2008ea2f8e73fadee7dd449ed4eef07cfb6df199637241c76cb284              988 Packages
+ 4582ddfaf2fe7299f9f7d74fb8247788adeb514755cc10d9d08e9a5da12038c2              577 Packages.bz2
+ 3f6c3622354495698486d13f5c1e852eabfe6623cb87ee1f96c597c0e62ff84d              521 Packages.gz
+ 26b9b9ed36d29211715d7d51d1fb3a4ef0080a741a8581d474dfa7be56972a4f              247 Release
 SHA512:
- 1f842c96f8ea2d9cf09c3a96f35443ec7007c1fd11fa3055a1a30a67d862bfcb7857e68c1bff5b9ccb4bf6e03eb6934836b46a102899b63e2606129493674a87              513 Packages
- 36c29bdab14dc9025760ca53756aa0e1e5f74b514db54641e1cc4a277fbbad7018d7737c1e9c1116d5d726e13de313cebfe9f5e2340bc1d2451cb0399559069d              389 Packages.bz2
- dfbe7eea3d2b43bb2fda3886cb54052e085b121c2986fc1a13bd98546221defb90a8def9b8f20b8bc941dc93f88985173912484556246d976918e1cd94c6bb0f              363 Packages.gz
- 8da3cb554a0cac95fe3b51c487f0cb55aa04ad8429150141282dced6664e612326b3e5b27975efc9fd6fd7d5fe6179c33f4d57837fc9a101475d4eb18a084ccd              247 Release
+ dba48834f269b779f35d75e05c8f9039bbc3edd82e44832196960356f39d817a1c5ea95c103f8ab86918cad9135b50cd0ada820380ba943d5d589954b30e6dc0              988 Packages
+ 710dd4e47a5a8ec2f145b3e64532e554ea2ecfef1d8d647d5e69cace81f93e857bf4391833c1b4524ded549c17f4326446571dc76318dba82b3f5f0f95459b4d              577 Packages.bz2
+ 21305c69412ffa9c2af7581703310de7ff5d63f0a8ae6172f2156f24424268029e8c99b79047f37c9b7fd68bcf2ae4d74f18c93b6f7c105ad423306ca47f1664              521 Packages.gz
+ 4b8d5c448d955a9bca6ed288c2f7d27f42b850d3d900f72f699de2d45daf761cb2792ceadd67cd958126f700309b5556cba033ea9f1b9dd330229e4142da4e95              247 Release
