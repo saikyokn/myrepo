@@ -15,15 +15,15 @@ Author: saikyokn
 Name: siriplusplus
 
 Package: com.saikyokn.siriplusplusapp
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
 Maintainer: saikyoknwsl
 Installed-Size: 172
-Filename: debs/com.saikyokn.siriplusplusapp_0.0.1-1+debug_iphoneos-arm64.deb
-Size: 12814
-MD5sum: 5228464bf4f541d4584f60de17a086e1
-SHA1: 9d71464b1032b60625e8b441ac594472824c924d
-SHA256: a0d4de8bfc71650e8bb6c664e0787c54bc5614005569dae43663b77c2761d018
+Filename: debs/com.saikyokn.siriplusplusapp_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 12906
+MD5sum: 1fa747935a9721557701769d4b13c190
+SHA1: 57d0fb6cf95d27b8bfc8fb61de7419775fc5c6fd
+SHA256: f8fcd0107f6d645b482182fcf7e65a39390fbc919e018c0d47c8d1f8fdf8d349
 Section: Utilities
 Description: An awesome application!
 Author: saikyoknwsl
