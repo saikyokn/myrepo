@@ -1,0 +1,29 @@
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Codename: ios
+Components: main
+Date: Thu, 30 Jul 2026 10:38:20 +0000
+Description: Saikyokn's Personal iOS Tweak Repository
+Label: Saikyokn
+Origin: Saikyokn Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 2e808aee5f4c8a3624b30c48df76cc3e              513 Packages
+ 9210de2887d1be59c1811862ae954177              389 Packages.bz2
+ a5625e804d541c4f21b7a2572ffea9c0              363 Packages.gz
+ 57d969255980c412d4d2f8f98fcea9ce              247 Release
+SHA1:
+ 41fb6a42a3690cf5e51bda88c8f516032e914938              513 Packages
+ 55cef41099fc8969113dbf3d8d42b701c5e443bc              389 Packages.bz2
+ 7bdf52a56a1c895745c19241ce96790e7ba5fc8f              363 Packages.gz
+ 01d1c44ea90ef3cb0ff7ed68f12798344c056b1f              247 Release
+SHA256:
+ f7d03ba920a04e02d4d11ac14d810f44c4d1ba5d5eaeb4eeefe079c13280f0e9              513 Packages
+ bcec9265a07bad636c26f13ff307fb1276a256dd74483a20978d4026a75c1ad1              389 Packages.bz2
+ 20c6484ae286491e6689fe8f1cffdd4d99e0edb3b03eaae65bf04f9ba9277da9              363 Packages.gz
+ 9c7145ae7a1ebe546c0fa6288e6c3a5d2433e20894556d1b8ad3661e3546f9e1              247 Release
+SHA512:
+ 1f842c96f8ea2d9cf09c3a96f35443ec7007c1fd11fa3055a1a30a67d862bfcb7857e68c1bff5b9ccb4bf6e03eb6934836b46a102899b63e2606129493674a87              513 Packages
+ 36c29bdab14dc9025760ca53756aa0e1e5f74b514db54641e1cc4a277fbbad7018d7737c1e9c1116d5d726e13de313cebfe9f5e2340bc1d2451cb0399559069d              389 Packages.bz2
+ c7673b7041e6f1e125d3a7702abea6f9b1082e6d36bd4761a2779663d1b95793608c4461c35bd73329c79c9375cedb399dff32cac3ffdfeff62be4b4f446d942              363 Packages.gz
+ 550d103275fb8f00c7a9e73f0c931c5fde755c932bc72327dbae2c48454322279d779303e19ebe873756a753db52c7166518dbfcfd1ae3c2917ae79b6e2dca16              247 Release
