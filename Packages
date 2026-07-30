@@ -14,18 +14,3 @@ Description: An awesome MobileSubstrate tweak!
 Author: saikyokn
 Name: siriplusplus
 
-Package: com.saikyokn.siriplusplusapp
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm64
-Maintainer: saikyoknwsl
-Installed-Size: 172
-Filename: debs/com.saikyokn.siriplusplusapp_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 12906
-MD5sum: 1fa747935a9721557701769d4b13c190
-SHA1: 57d0fb6cf95d27b8bfc8fb61de7419775fc5c6fd
-SHA256: f8fcd0107f6d645b482182fcf7e65a39390fbc919e018c0d47c8d1f8fdf8d349
-Section: Utilities
-Description: An awesome application!
-Author: saikyoknwsl
-Name: Siri AI
-
