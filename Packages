@@ -1,14 +1,14 @@
 Package: com.saikyokn.siriplusplus
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: saikyokn
-Installed-Size: 168
+Installed-Size: 120
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.saikyokn.siriplusplus_0.0.1-1+debug_iphoneos-arm.deb
-Size: 2246
-MD5sum: dfd5a37af1bc3a9b219635cd7e852484
-SHA1: 5e048176d5e0dad3821a59efd8e7198bf2705b85
-SHA256: 92558a9a45d05cc1371f7098b88d3e7928349119eb96f730076357b335196597
+Filename: debs/com.saikyokn.siriplusplus_0.0.1-2+debug_iphoneos-arm.deb
+Size: 1744
+MD5sum: efd7f4bae24bf2d72388e1f16f3ee30e
+SHA1: 5f260ea0b7affaa5cb2b94584068f562dbee9c09
+SHA256: 19d47a4d17c4cf0a2d699519ff95424ba44b74530a22f7cb7137da54c42b63a1
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: saikyokn
