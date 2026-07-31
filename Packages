@@ -1,31 +1,16 @@
 Package: com.saikyokn.siriplusplus
-Version: 1.0.5-1+debug
-Architecture: iphoneos-arm64
+Version: 1.0.7-1+debug
+Architecture: iphoneos-arm6464
 Maintainer: saikyokn
-Installed-Size: 188
+Installed-Size: 364
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.saikyokn.siriplusplus_1.0.5-1+debug_iphoneos-arm64.deb
-Size: 9436
-MD5sum: 0d4e55f2eb5c5a67d777a3b4071bfb5c
-SHA1: 11254a21930678457b5ba3c8a10d0073af796e06
-SHA256: 044efe4dd11dc6457470644252494e09327d47e2661fb25b0b737b360dceb908
+Filename: debs/com.saikyokn.siriplusplus_1.0.7-1+debug_iphoneos-arm6464.deb
+Size: 19090
+MD5sum: 9a70286dd69e37ee62bb3ff3c965c5c4
+SHA1: bef6ea9cdb9933991e0ee76f9389b8d25a6767be
+SHA256: cbf5507c4fa9a2f941462841339269e0514d926209cf2f71d2d69befb1238e89
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: saikyokn
 Name: siriplusplus
-
-Package: com.saikyokn.siriplusplusapp
-Version: 1.0.5-1+debug
-Architecture: iphoneos-arm64
-Maintainer: saikyoknwsl
-Installed-Size: 172
-Filename: debs/com.saikyokn.siriplusplusapp_1.0.5-1+debug_iphoneos-arm64.deb
-Size: 12898
-MD5sum: a9787dfb5de8a4180e62fef7e1e49907
-SHA1: 690f7b20f520fbccf995620f9f04a12e478c8ddb
-SHA256: bfe7a0506b8fc13b66abba293714b75f482509ebf4232e429405547bb738000e
-Section: Utilities
-Description: An awesome application!
-Author: saikyoknwsl
-Name: Siri AI
 
